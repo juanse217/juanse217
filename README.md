@@ -1,7 +1,8 @@
 
 
 # 💫 About Me:
-## Hi there, I'm Sebastian. You're all welcome to my world!<br>- ###I’m a software engineering student months from graduating. I'm a Java lover, though I've used other technologies. At this point of my career, I'm focusing on creating secure and well structured REST APIs that can be a part of a microservices system. And, of course, currently looking to apply my knowledge at a company that gives me the opportunity.
+## Hi there, I'm Sebastian. You're all welcome to my world!
+### I’m a software engineering student months from graduating. I'm a Java lover, though I've used other technologies. At this point of my career, I'm focusing on creating secure and well structured REST APIs that can be a part of a microservices system. And, of course, currently looking to apply my knowledge at a company that gives me the opportunity.
 
 - ### I'm focusing on:
     - Java with Spring Boot.
